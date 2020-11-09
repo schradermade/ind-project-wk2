@@ -1,0 +1,42 @@
+p {
+  font-size: 35px;
+}
+
+#opener {
+  font-style: italic;
+}
+
+.btn {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: rgb(234, 216, 247);
+  border-style: groove;
+  margin-top: 5%;
+  animation: ease-in-out;
+  animation-duration: 5s;
+}
+
+.languages {
+  display: none;
+}
+
+#closing {
+  text-align: left;
+  margin-top:5%;
+}
+
+#background {
+  background: cyan;
+  background-size: cover;
+  background-color: cyan;
+  enable-background: new;
+}
+
+#langList {
+  list-style: decimal;
+  text-align: left;
+}
+
+#reminder {
+  font-weight: 800;
+}
